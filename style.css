@@ -56,3 +56,35 @@ body{
     text-align: center;
     word-break: break-all;
 }
+
+.content .author{
+    display: flex;
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 20px;
+    justify-content: flex-end;
+}
+
+.author span:first-child{
+    margin: -7px 5px 0 0;
+    font-family: monospace;
+}
+
+.wrapper .buttons{
+    border-top: 1px solid #ccc;
+}
+
+.buttons .features{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content: space-between; 
+}
+
+.features ul{
+    display: flex;
+}
+
+.features ul li{
+    list-style: none;
+}
