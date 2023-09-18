@@ -62,7 +62,7 @@ body{
     font-size: 18px;
     font-style: italic;
     margin-top: 20px;
-    justify-content: flex-end;
+    justify-content: right;
 }
 
 .author span:first-child{
