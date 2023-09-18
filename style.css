@@ -57,7 +57,7 @@ body{
     word-break: break-all;
 }
 
-.content .message .author{
+.content .author{
     display: flex;
     font-size: 18px;
     font-style: italic;
