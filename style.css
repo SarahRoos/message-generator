@@ -57,12 +57,12 @@ body{
     word-break: break-all;
 }
 
-.content .author{
+.content h4.author{
     display: flex;
     font-size: 18px;
     font-style: italic;
     margin-top: 20px;
-    margin-left: auto !important;
+    justify-content: flex-end;
 }
 
 .author span:first-child{
